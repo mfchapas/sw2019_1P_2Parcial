@@ -12,8 +12,8 @@ var router = express.Router();
     'name':null,
     'age':'',
     'company':null,
-    'email':false,
-    'tags':false,
+    'email':null,
+    'tags':'',
     
   };
  
